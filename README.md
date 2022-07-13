@@ -1,6 +1,6 @@
 # 💫 About Me:
  Hi, I am Sajandeep Singh a front-end developer. I'm constantly looking for ways to apply my practical knowledge
- <br>to a more professional setting. I enjoy solving complex problems and turning them into simple and beautiful
+ to a more professional setting. I enjoy solving complex problems and turning them into simple and beautiful
  <br>interface designs. I also love the logic and structure of coding and always strive to write elegant and 
  <br>efficient code, whether it be HTML, CSS, React or JavaScript.
 
